@@ -32,6 +32,8 @@
     }
  ```
  
+ ---
+ 
  ## Output:
  
  ```
@@ -73,6 +75,8 @@ No test methods found.
 }
  ```
  
+ ---
+ 
  ## Output:
  
  ```
@@ -88,6 +92,12 @@ new Operators:1(
 No test methods found.
 ```
 
+### Dissecting the program:
+- <span stye="color:red"> **To calculate the value 95 for field `theAnswer`**</span> <span style="color:dark green"> this code used multiplication (with the `*` operator) and addition (with the `+` operator)</span>
+- <span style="color:dark orange">Java correctly processes the order of operations according to the multiplication-before-addition rule. </span>
+- <span style="color:dark orange"> Only the resulting value is stored in the field and shown in the output, not the whole program or calculation.</span>
+
+- <span stye="color:red"> *The first line*</span> <span style="color:dark green"> is telling us the name of the tool we are using</span>
 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>

@@ -3,10 +3,13 @@
 ## What is the main point of (More) Fields?
 > <span style="color:blue"> not sure right now</span>
 
-## To write, tests, and run programs in a language called Java? 
+## To write, tests, and run programs in a language called Java: 
 > <span style="color:blue"> We will put a bunch of text into file with the extension `.java`</span>
 
-## What is limiting behavior?
+## Given this program:
+`class FirstExample {
+  int theNumberFive = 5;
+  }`
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>
 > <span style="color:blue"> means: As x gets closer to a, f(x) gets closer to L.</span>

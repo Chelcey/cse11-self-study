@@ -6,10 +6,8 @@
 
 <span style="color:violet">some **blue** text</span>
 
----
-
 ## <span style="color:green;font-weight:700;font-size:20px"> 
-Tasks </span>
+Tasks</span>
 - [x] (More) Fields
 - [ ] Defining Methods
 - [ ] String Methods

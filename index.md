@@ -5,3 +5,5 @@
 > This is where I will put all my notes for CSE 11
 
 <span style="color:violet">some **blue** text</span>
+<span style="color:green;font-weight:700;font-size:20px"> 
+markdown color font styles</span>

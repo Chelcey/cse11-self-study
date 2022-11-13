@@ -1,4 +1,5 @@
-# CSE 11 [Accelerated Learning to Programming] Self-Study Notes
+# CSE 11 Self-Study Notes
+## Accelerated Learning to Programming
 ## By Chelcey Do
 
-### This is where I will put all my notes for CSE 11
+### *This is where I will put all my notes for CSE 11*

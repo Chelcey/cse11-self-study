@@ -13,6 +13,19 @@
     int theNumberFive = 5; 
     }
  ```
+ ## Output
+ ```
+ Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: FirstExample:
+---------------------------
+FirstExample:
+---------------
+new FirstExample:1(
+ this.theNumberFive = 5)
+---------------
+No test methods found.
+```
 
 ### Dissecting the program:
 - <span stye="color:red"> **FirstExample**</span> <span style="color:dark green"> is the Test defined in the class</span>

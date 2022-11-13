@@ -215,14 +215,14 @@ No test methods found.
 ---
 # <span style="color:magenta"> 1.3 Syntax</span>
 
-<mark>**keyword**</mark>
+==**keyword**==
  : have a specific meaning in java
  
  ### Examples of keyword:
  1. `class`
  2. `int`
 
-<mark>**syntax**</mark>
+==**syntax**==
  : specific order for all these words and symbols in valid pgrom. 
  
  ### Syntax Order:

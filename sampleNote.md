@@ -1,7 +1,7 @@
 # <span style="color:purple"> **BIG O NOTATION**</span>
 
 ## What is the main point of the Big O Notation?
-> Describe the asymptotic behavior of functions (which is how fast the f(x) grows/declines)
+> <span style="color:blue"> Describe the asymptotic behavior of functions (which is how fast the f(x) grows/declines)</span>
 
 ## What is asymptotic behavior? 
 > method of describing limiting behavior

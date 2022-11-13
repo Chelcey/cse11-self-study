@@ -241,6 +241,9 @@ No test methods found.
 
 ---
 
+### <span style="color:violet"> Note: </span>
+**You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**
+
 ## Why do we need to use (More) Fields for?
 > <span style="color:indigo"> To specify the type(s) of information being stored in the class. </span>
 

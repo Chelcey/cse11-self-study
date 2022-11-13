@@ -271,7 +271,9 @@ new UsingFields:1(
 No test methods found.
 ```
 ---
-
+- <span style="color:blue"> **To store a common value used in many places:** </span>
+  <span style="color:brown"> We could define a field that is just for storing the gravity constant </span>
+  
 ---
 ### <span style="color:violet"> Note: </span>
 - **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**

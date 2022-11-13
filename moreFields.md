@@ -132,6 +132,32 @@ No test methods found.
 
 ### Dissecting the program:
 - <span style="color:dark orange"> The programs would still perform the caclulation and output the results just fine even if we picked other field names like `x` or `someReallyLongFieldName` </span>
+
+---
+## Not Quite Math Program
+```
+class NotQuiteMath {
+  int theAnswer2 = (5 + 4) / 2;
+}
+```
+---
+## Output
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: NotQuiteMath:
+---------------------------
+NotQuiteMath:
+---------------
+new NotQuiteMath:1(
+ this.theAnswer2 = 4)
+---------------
+No test methods found.
+```
+---
+
+### Dissecting the program:
+- <span style="color:dark orange"> When dividing `int` values, Java simply *removes* decimal part so that the answer is always an integer </span>
+
 ---
 ## Why do we need to use (More) Fields for?
 > <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>

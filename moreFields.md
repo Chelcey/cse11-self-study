@@ -35,6 +35,13 @@ No test methods found.
 - <span stye="color:red"> *The number after the `:`*</span> <span style="color:dark green"> is a unique identifier for this objecgt which we call its **reference**(no special meaning, jusgt unique to this object)</span>
 - <span stye="color:red"> **Reference**</span> <span style="color:dark green"> has a single **field** which we can refer with `this.theNumberFive`, whose value is `5`</span>
 
+| Vocabulary | Description|
+| ----------- | ----------- |
+| **object** | ```
+new FirstExample:1(
+this.theNumberFive = 5)|
+| Paragraph | Text |
+
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>
 > <span style="color:blue"> means: As x gets closer to a, f(x) gets closer to L.</span>

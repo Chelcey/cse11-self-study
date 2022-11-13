@@ -5,7 +5,7 @@
 
 ### Reading
 - [x] 1.1 Programs, Fields
-- [ ] 1.2 Java as a Calculator
+- [x] 1.2 Java as a Calculator
 - [ ] 1.3 Syntax
 - [ ] 2.1 Using Fields
 - [ ] 2.2 Beyond ints
@@ -212,9 +212,17 @@ No test methods found.
 ### Dissecting the program:
 - <span style="color:orange red"> Java will simply remove the fractional part for negative `int`s as well </span>
 
+---
+# <span style="color:magenta"> 1.3 Syntax</span>
+
+keyword
+ : have a specific meaning in java
+ 
+
+---
 
 ## Why do we need to use (More) Fields for?
-> <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>
+> <span style="color:blue"> To specify the type(s) of information being stored in the class. </span>
 
 
 ### [Back to Contents:](https://chelcey.github.io/cse11-self-study/)

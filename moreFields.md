@@ -222,7 +222,7 @@ No test methods found.
  1. `class`
  2. `int`
 
-==**syntax**==
+<mark >**syntax**</mark>
  : specific order for all these words and symbols in valid pgrom. 
  
  ### Syntax Order:

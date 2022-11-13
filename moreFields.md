@@ -51,7 +51,7 @@ No test methods found.
 ```
 
 ### Dissecting the program:
-- <span stye="color:red"> **FirstExample**</span> <span style="color:green"> is the Test defined in the class</span>
+- <span stye="color:red"> FirstExample</span> <span style="color:green"> is the Test defined in the class</span>
 - <span stye="color:red"> *The first line*</span> <span style="color:dark green"> is telling us the name of the tool we are using</span>
 - <span stye="color:red"> *This output*</span> <span style="color:dark green"> is saying that an **object** was created and it **class** was `FirstExample`</span>
 - <span stye="color:red"> *The number after the `:`*</span> <span style="color:dark green"> is a unique identifier for this objecgt which we call its **reference**(no special meaning, jusgt unique to this object)</span>
@@ -160,7 +160,7 @@ No test methods found.
 ---
 
 ### Dissecting the program:
-- <span style="color:dark orange"> When dividing `int` values, Java simply *removes* decimal part so that the answer is always an integer. It simply truncates any decimal portion of the number entirely (even if it would be 0.9999) </span>
+- <span style="color:orange"> When dividing `int` values, Java simply *removes* decimal part so that the answer is always an integer. It simply truncates any decimal portion of the number entirely (even if it would be 0.9999) </span>
 
 ---
 
@@ -210,7 +210,7 @@ No test methods found.
 ```
 ---
 ### Dissecting the program:
-- <span style="color:cyan"> Java will simply remove the fractional part for negative `int`s as well </span>
+- <span style="color:orange red"> Java will simply remove the fractional part for negative `int`s as well </span>
 
 
 ## Why do we need to use (More) Fields for?

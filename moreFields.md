@@ -13,7 +13,7 @@
     int theNumberFive = 5; 
     }
  ```
- ## Output
+ ## Output:
  ```
  Tester Prima v.2.3
 -----------------------------------
@@ -29,7 +29,9 @@ No test methods found.
 
 ### Dissecting the program:
 - <span stye="color:red"> **FirstExample**</span> <span style="color:dark green"> is the Test defined in the class</span>
-
+- <span stye="color:red"> *The first line*</span> <span style="color:dark green"> is telling us the name of the tool we are using</span>
+- <span stye="color:red"> *This output*</span> <span style="color:dark green"> is saying that an **object** was created and it **class** was `FirstExample`</span>
+- 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>
 > <span style="color:blue"> means: As x gets closer to a, f(x) gets closer to L.</span>

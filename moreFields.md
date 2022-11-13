@@ -114,6 +114,7 @@ class Operators {
 }
 ```
 ---
+
 ## Output
 ```
 Tester Prima v.2.3
@@ -135,6 +136,7 @@ No test methods found.
 
 ---
 ## Not Quite Math Program
+
 ```
 class NotQuiteMath {
   int theAnswer2 = (5 + 4) / 2;
@@ -142,6 +144,8 @@ class NotQuiteMath {
 ```
 ---
 ## Output
+
+```
 Tester Prima v.2.3
 -----------------------------------
 Tests defined in the class: NotQuiteMath:

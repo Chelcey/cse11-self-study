@@ -1,6 +1,5 @@
 # CSE 11 Self-Study Notes
 ## Accelerated Learning to Programming
-### By Chelcey Do
 
 *How come this page was created and why?*
 > Due to my bad coding concepts skills, I made this page so I can learn Java from scratch, and this is where I will put all my programming notes for it. 

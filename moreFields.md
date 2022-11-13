@@ -24,6 +24,7 @@
 ## To write, tests, and run programs in a language called Java: 
 > <span style="color:blue"> We will put a bunch of text into file with the extension `.java`</span>
 
+---
 ## Given this program:
   ```
   class FirstExample
@@ -128,6 +129,9 @@ new Operators:1(
 ---------------
 No test methods found.
 ```
+
+### Dissecting the program:
+- <span style="color:dark orange"> The programs would still perform the caclulation and output the results just fine even if we picked other field names like `x` or `someReallyLongFieldName` </span>
 ---
 ## Why do we need to use (More) Fields for?
 > <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>

@@ -6,7 +6,7 @@
 
 <span style="color:violet">some **blue** text</span>
 
-<span style="color:green;font-weight:700;font-size:20px"> [Contents](https://chelcey.github.io/cse11-self-study/):</span>
+<span style="color:green;font-weight:700;font-size:20px"> [Contents:](https://chelcey.github.io/cse11-self-study/)</span>
 
 | Page | Title |
 | ----------- | ----------- |

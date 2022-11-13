@@ -160,8 +160,30 @@ No test methods found.
 ---
 
 ### Dissecting the program:
-- <span style="color:dark orange"> When dividing `int` values, Java simply *removes* decimal part so that the answer is always an integer </span>
+- <span style="color:dark orange"> When dividing `int` values, Java simply *removes* decimal part so that the answer is always an integer. It simply truncates any decimal portion of the number entirely (even if it would be 0.9999) </span>
 
+---
+
+## Negative Results Program
+```
+class NegativeResults {
+    int negativeResult = 1 + (-3);
+}
+```
+---
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: NegativeResults:
+---------------------------
+NegativeResults:
+---------------
+new NegativeResults:1(
+ this.negativeResult = -2)
+---------------
+No test methods found.
+```
 ---
 ## Why do we need to use (More) Fields for?
 > <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>

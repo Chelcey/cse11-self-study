@@ -275,6 +275,33 @@ No test methods found.
   <span style="color:brown"> We could define a field that is just for storing the gravity constant </span>
   
 ---
+## Using Fields Programs
+```
+class UsingFields {
+  int gravity = 10;
+  int distAfter2sec = (this.gravity / 2) * (2 * 2);
+  int distAfter4sec = (this.gravity / 2) * (4 * 4);
+  int distAfter6sec = (this.gravity / 2) * (6 * 6);
+}
+```
+---
+## Output:
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: UsingFields:
+---------------------------
+UsingFields:
+---------------
+new UsingFields:1(
+ this.gravity = 10
+ this.distAfter2sec = 20
+ this.distAfter4sec = 80
+ this.distAfter6sec = 180)
+---------------
+No test methods found.
+```
+---
 ### <span style="color:violet"> Note: </span>
 - **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**
 - **Order of words and symbols is important**

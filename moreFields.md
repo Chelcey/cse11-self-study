@@ -3,6 +3,18 @@
 ## What is the main point of (More) Fields?
 > <span style="color:blue"> not sure right now</span>
 
+### Reading
+- [x] 1.1 Programs, Fields
+- [ ] 1.2 Java as a Calculator
+- [ ] 1.3 Syntax
+- [ ] 2.1 Using Fields
+- [ ] 2.2 Beyond ints
+- [ ] 2.3 Java Checks Types
+
+---
+
+# <span style="color:magenta"> 1.1 Programs, Fields</span>
+
 ## To write, tests, and run programs in a language called Java: 
 > <span style="color:blue"> We will put a bunch of text into file with the extension `.java`</span>
 
@@ -42,6 +54,9 @@ No test methods found.
 | **field value** | 5 |
 | **field name** | theNumberFive |
 | **class name** | FirstExample |
+
+---
+
 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>

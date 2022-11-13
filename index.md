@@ -9,7 +9,7 @@
 <span style="color:green;font-weight:700;font-size:20px"> 
 Menu Page:</span>
 | Page | Title |
-| ----------- | ----------- |
+| ----------- | -----------|
 | 01 | (More) Fields |
 | 02 | Defining Methods |
 | 03 | String Methods |

@@ -16,10 +16,14 @@ Menu Page:</span>
 | 04 | Booleans, If, Doubles, Math |
 | 05 | Constructors and Objects |
 
-| Syntax | Description |
+| Page | Title |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 01 | (More) Fields |
+| 02 | Defining Methods |
+| 03 | String Methods |
+| 04 | Booleans, If, Doubles, Math |
+| 05 | Constructors and Objects |
+| 02 | Defining Methods |
 
 - [ ] String Methods
 - [ ] Booleans, If, Doubles, Math

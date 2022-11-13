@@ -9,36 +9,33 @@
 <span style="color:green;font-weight:700;font-size:20px"> 
 Menu Page:</span>
 | Page | Title |
-| ----------- | -----------|
-| 01 | (More) Fields |
-| 02 | Defining Methods |
-| 03 | String Methods |
-| 04 | Booleans, If, Doubles, Math |
-| 05 | Constructors and Objects |
-
-| Page | Title |
 | ----------- | ----------- |
+| 00 | Sample Coding Note |
 | 01 | (More) Fields |
 | 02 | Defining Methods |
 | 03 | String Methods |
 | 04 | Booleans, If, Doubles, Math |
 | 05 | Constructors and Objects |
+| 06 | More Class and Method Design |
+| 07 | Memory Models |
+| 08 | Nested Data, Tester |
+| 09 | Interfaces |
+| 10 | Interfaces, Recursion |
+| 11 | Arrays |
+| 12 | main and command-line arguments |
+| 13 | Variable update, Loops |
+| 14 | Counted Loops |
+| 15 | Loops and Objects |
+| 16 | Nested Loops |
+| 01 | (More) Fields |
 | 02 | Defining Methods |
 
-- [ ] String Methods
-- [ ] Booleans, If, Doubles, Math
-- [ ] Constructors and Objects
-- [ ] More Class and Method Design
-- [ ] Memory Models
-- [ ] Nested Data, Tester
-- [ ] Interfaces
-- [ ] Interfaces, Recursion
-- [ ] Arrays
-- [ ] main and command-line argumeents
-- [ ] Variable update, Loops
-- [ ] Counted Loops
-- [ ] Loops and Objects
-- [ ] Nested Loops
+
+
+
+
+
+
 - [ ] Loops and Objects
 - [ ] Loops and Objects, Nested Loops
 - [ ] Exceptions and File I/O

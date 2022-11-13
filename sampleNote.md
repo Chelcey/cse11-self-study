@@ -1,9 +1,4 @@
-# BIG O NOTATION
-
-<span style="color:violet"># banana **blue** text</span>
 # <span style="color:purple"> **BIG O NOTATION**</span>
-
-<span style="color:fuschia;font-weight:700;font-size:20px"> Hey hey</span>
 
 ## What is the main point of the Big O Notation?
 > Describe the asymptotic behavior of functions (which is how fast the f(x) grows/declines)

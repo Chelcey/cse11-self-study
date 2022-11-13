@@ -8,6 +8,11 @@
 
 <span style="color:green;font-weight:700;font-size:20px"> 
 Menu Page:</span>
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 | Page | Title |
 | ----------- | ----------- |
 | 01 | (More) Fields |

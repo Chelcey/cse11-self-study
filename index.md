@@ -8,11 +8,6 @@
 
 <span style="color:green;font-weight:700;font-size:20px"> 
 Menu Page:</span>
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 | Page | Title |
 | ----------- | ----------- |
 | 01 | (More) Fields |
@@ -25,13 +20,13 @@ Menu Page:</span>
 | 08 | Nested Data, Tester |
 | 09 | Interfaces |
 | 10 | Interfaces, Recursion |
+| 10 | Interfaces, Recursion |
 | 11 | Arrays |
 | 12 | main and command-line arguments |
 | 13 | Variable update, Loops |
 | 14 | Counted Loops |
 | 15 | Loops and Objects |
 | 16 | Nested Loops |
-| 01 | (More) Fields |
 | 02 | Defining Methods |
 
 

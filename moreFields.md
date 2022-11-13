@@ -1,10 +1,10 @@
 # <span style="color:purple"> **(MORE) FIELDS**</span>
 
-## What is the main point of the Big O Notation?
-> <span style="color:blue"> Describe the asymptotic behavior of functions (which is how fast the f(x) grows/declines)</span>
+## What is the main point of (More) Fields?
+> <span style="color:blue"> not sure right now</span>
 
-## What is asymptotic behavior? 
-> <span style="color:blue"> method of describing limiting behavior</span>
+## To write, tests, and run programs in a language called Java? 
+> <span style="color:blue"> We will put a bunch of text into file with the extension `.java`</span>
 
 ## What is limiting behavior?
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>

@@ -69,7 +69,7 @@ No test methods found.
 ## Given this program:
   ```
   class Operators {
-  int theAnswer = (5 + 2) * 45;
+  int theAnswer = 5 + (2 * 45);
 }
  ```
  
@@ -83,7 +83,7 @@ Tests defined in the class: Operators:
 Operators:
 ---------------
 new Operators:1(
- this.theAnswer = 315)
+ this.theAnswer = 95)
 ---------------
 No test methods found.
 ```

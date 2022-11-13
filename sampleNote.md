@@ -1,7 +1,7 @@
 # BIG O NOTATION
 
 <span style="color:violet"># banana **blue** text</span>
-# <span style="color:purple"> **BIG O NOTATION** text</span>
+# <span style="color:purple"> **BIG O NOTATION**</span>
 
 <span style="color:fuschia;font-weight:700;font-size:20px"> Hey hey</span>
 

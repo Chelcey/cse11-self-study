@@ -37,9 +37,10 @@ No test methods found.
 
 | Vocabulary | Description|
 | ----------- | ----------- |
-| **object** | `new FirstExample:1(
- this.theNumberFive = 5)`|
-| Paragraph | Text |
+| **object** | new FirstExample:1(
+ this.theNumberFive = 5)|
+| **reference** | :1 |
+| **field value** | 5 |
 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>

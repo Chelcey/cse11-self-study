@@ -11,6 +11,12 @@
 - [ ] 2.2 Beyond ints
 - [ ] 2.3 Java Checks Types
 
+### Videos
+- [ ] Intro to Runnning Programs
+- [ ] Syntax Errors
+- [ ] Arithmetic
+- [ ] Field Access
+
 ---
 
 # <span style="color:magenta"> 1.1 Programs, Fields</span>
@@ -27,6 +33,7 @@
  ```
  
  ## Output:
+ 
  ```
  Tester Prima v.2.3
 -----------------------------------
@@ -56,6 +63,30 @@ No test methods found.
 | **class name** | FirstExample |
 
 ---
+
+# <span style="color:magenta"> 1.2 Java as a Calculator</span>
+
+## Given this program:
+  ```
+  class Operators {
+  int theAnswer = (5 + 2) * 45;
+}
+ ```
+ 
+ ## Output:
+ 
+ ```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: Operators:
+---------------------------
+Operators:
+---------------
+new Operators:1(
+ this.theAnswer = 315)
+---------------
+No test methods found.
+```
 
 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>

@@ -237,7 +237,7 @@ No test methods found.
  
 ---
 ## <span style="color:red"> For some reason, I am not sure what I am doing wrong? </span>
-![image 0] (
+![image 0] (image0.jpg)
 ---
 
 ## Why do we need to use (More) Fields for?

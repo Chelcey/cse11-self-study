@@ -223,15 +223,21 @@ No test methods found.
  2. `int`
 
 <mark >syntax</mark>
- : specific order for all these words and symbols in valid progrom. 
+ : specific order for all these words and symbols in valid program. 
  
   **Syntax Order:**
  1. There must be a name after the keyword `class`
  2. Name must be followed by open curly brace (`{`)
  3. Inside must be a sequence of fields, each separated by a semicolon
  4. Then comes a closing curly brace (`}`)
- 5. Allowed any amount of **whitespace** between fileds or around the curly braces (spaces, newlines, and tabs)
+ 5. Allowed any amount of **whitespace** between fields or around the curly braces (spaces, newlines, and tabs)
 
+<mark >whitespace</mark>
+ : spaces, newlines, and tabs
+ 
+---
+## <span style="color:red"> For some reason, I am not sure what I am doing wrong? </span>
+![image 0] (
 ---
 
 ## Why do we need to use (More) Fields for?

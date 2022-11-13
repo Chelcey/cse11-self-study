@@ -39,7 +39,7 @@ No test methods found.
 | ----------- | ----------- |
 | **object** | ```
 new FirstExample:1(
-this.theNumberFive = 5)|
+this.theNumberFive = 5)```|
 | Paragraph | Text |
 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>

@@ -6,10 +6,16 @@
 
 <span style="color:violet">some **blue** text</span>
 
-## <span style="color:green;font-weight:700;font-size:20px"> 
-Tasks</span>
-- [x] (More) Fields
-- [ ] Defining Methods
+<span style="color:green;font-weight:700;font-size:20px"> 
+Menu Page:</span>
+| Page | Title |
+| ----------- | ----------- |
+| 01 | (More) Fields |
+| 02 | Defining Methods |
+| 03 | String Methods |
+| 04 | Booleans, If, Doubles, Math |
+| 05 | Constructors and Objects |
+
 - [ ] String Methods
 - [ ] Booleans, If, Doubles, Math
 - [ ] Constructors and Objects

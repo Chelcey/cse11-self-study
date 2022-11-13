@@ -6,8 +6,7 @@
 
 <span style="color:violet">some **blue** text</span>
 
-<span style="color:green;font-weight:700;font-size:20px"> 
-Menu Page:</span>
+<span style="color:green;font-weight:700;font-size:20px"> Menu Page:</span>
 | Page | Title |
 | ----------- | ----------- |
 | 01 | (More) Fields |

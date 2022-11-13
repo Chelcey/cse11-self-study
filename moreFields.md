@@ -8,7 +8,9 @@
 
 ## Given this program:
 `class FirstExample {
+  
   int theNumberFive = 5;
+  
   }`
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>

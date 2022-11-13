@@ -218,16 +218,14 @@ No test methods found.
 <mark >keyword</mark>
  : have a specific meaning in java
  
----
- ### Examples of keyword:
+ **Examples of keyword:**
  1. `class`
  2. `int`
----
+
 <mark >syntax</mark>
  : specific order for all these words and symbols in valid progrom. 
  
----
- ### Syntax Order:
+  **Syntax Order:**
  1. There must be a name after the keyword `class`
  2. Name must be followed by open curly brace (`{`)
  3. Inside must be a sequence of fields, each separated by a semicolon

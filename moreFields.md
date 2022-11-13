@@ -215,9 +215,22 @@ No test methods found.
 ---
 # <span style="color:magenta"> 1.3 Syntax</span>
 
-keyword
+**keyword**
  : have a specific meaning in java
  
+ ### Examples of keyword:
+ 1. `class`
+ 2. `int`
+
+**syntax**
+ : specific order for all these words and symbols in valid pgrom. 
+ 
+ ### Syntax Order:
+ 1. There must be a name after the keyword `class`
+ 2. Name must be followed by open curly brace (`{`)
+ 3. Inside must be a sequence of fields, each separated by a semicolon
+ 4. Then comes a closing curly brace (`}`)
+ 5. Allowed any amount of **whitespace** between fileds or around the curly braces (spaces, newlines, and tabs)
 
 ---
 

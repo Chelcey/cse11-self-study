@@ -1,12 +1,12 @@
 # <span style="color:purple"> **(MORE) FIELDS**</span>
 
 ## What is the main point of (More) Fields?
-> <span style="color:blue"> not sure right now</span>
+> <span style="color:blue"> Fields are a variable, that describes the type of information being stored. </span>
 
 ### Reading
 - [x] 1.1 Programs, Fields
 - [x] 1.2 Java as a Calculator
-- [ ] 1.3 Syntax
+- [x] 1.3 Syntax
 - [ ] 2.1 Using Fields
 - [ ] 2.2 Beyond ints
 - [ ] 2.3 Java Checks Types
@@ -241,10 +241,42 @@ No test methods found.
 
 ---
 
+# <span style="color:magenta"> 2.1 Using Fields</span>
+
+<mark >tester</mark>
+ : library along with Java that would store fields' values and then output them when the program was run. 
+
+## Acceleration on Mars program
+```
+class UsingFields {
+  int distAfter2sec = (4 / 2) * (2 * 2);
+  int distAfter4sec = (4 / 2) * (4 * 4);
+  int distAfter6sec = (4 / 2) * (6 * 6);
+}
+```
+---
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: UsingFields:
+---------------------------
+UsingFields:
+---------------
+new UsingFields:1(
+ this.distAfter2sec = 8
+ this.distAfter4sec = 32
+ this.distAfter6sec = 72)
+---------------
+No test methods found.
+```
+---
+
+---
 ### <span style="color:violet"> Note: </span>
-> **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**
-> **Order of words and symbols is important**
-> **Respond well to error messages** *Don't be intimidated by them, but leverage them to figure your mistakes and typos*
+- **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**
+- **Order of words and symbols is important**
+- **Respond well to error messages** *Don't be intimidated by them, but leverage them to figure your mistakes and typos*
 
 ## Why do we need to use (More) Fields for?
 > <span style="color:indigo"> To specify the type(s) of information being stored in the class. </span>

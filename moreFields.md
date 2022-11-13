@@ -14,6 +14,8 @@
     }
  ```
 
+### Disecting the program:
+- <span stye="color:red"> **FirstExample**</span> <span style="color:dark green"> Tests defined in the class</span>
 
 > <span style="color:blue"> limit is value that f(x) approaches as input approaches some value</span>
 > <span style="color:blue"> The limit of f(x), as x approaches a, is equal to L.</span>

@@ -10,7 +10,7 @@
 
 | Page | Title |
 | ----------- | ----------- |
-| 00 | Sample Note |
+| 00 | [Sample Note](https://chelcey.github.io/cse11-self-study/sampleNote) |
 | 01 | (More) Fields |
 | 02 | Defining Methods |
 | 03 | String Methods |

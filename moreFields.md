@@ -164,7 +164,7 @@ No test methods found.
 
 ---
 
-## Negative Results Program
+## Negative Results Program 1
 ```
 class NegativeResults {
     int negativeResult = 1 + (-3);
@@ -185,6 +185,34 @@ new NegativeResults:1(
 No test methods found.
 ```
 ---
+
+## Negative Results Program 2
+```
+class NegativeResults {
+    int negativeResult1 = 5/(-3);
+    int negativeResult2 = 6/(-3);
+}
+```
+---
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: NegativeResults:
+---------------------------
+NegativeResults:
+---------------
+new NegativeResults:1(
+ this.negativeResult1 = -1
+ this.negativeResult2 = -2)
+---------------
+No test methods found.
+```
+---
+### Dissecting the program:
+- <span style="color:orange"> Java will simply remove the fractional part for negative `int`s as well </span>
+
+
 ## Why do we need to use (More) Fields for?
 > <span style="color:blue"> used to classify algorithms according to run time or space requirements</span>
 

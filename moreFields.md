@@ -37,8 +37,7 @@ No test methods found.
 
 | Vocabulary | Description|
 | ----------- | ----------- |
-| **object** | ```
-new FirstExample:1(
+| **object** | ```new FirstExample:1(
 this.theNumberFive = 5)```|
 | Paragraph | Text |
 

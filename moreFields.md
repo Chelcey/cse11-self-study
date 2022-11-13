@@ -218,13 +218,15 @@ No test methods found.
 <mark >keyword</mark>
  : have a specific meaning in java
  
+---
  ### Examples of keyword:
  1. `class`
  2. `int`
-
+---
 <mark >syntax</mark>
- : specific order for all these words and symbols in valid pgrom. 
+ : specific order for all these words and symbols in valid progrom. 
  
+---
  ### Syntax Order:
  1. There must be a name after the keyword `class`
  2. Name must be followed by open curly brace (`{`)
@@ -235,7 +237,7 @@ No test methods found.
 ---
 
 ## Why do we need to use (More) Fields for?
-> <span style="color:blue"> To specify the type(s) of information being stored in the class. </span>
+> <span style="color:indigo"> To specify the type(s) of information being stored in the class. </span>
 
 
 ### [Back to Contents:](https://chelcey.github.io/cse11-self-study/)

@@ -1,5 +1,10 @@
 # CSE 11 Self-Study Notes
 ## Accelerated Learning to Programming
-## By Chelcey Do
+### By Chelcey Do
 
-### *This is where I will put all my notes for CSE 11*
+> This is where I will put all my notes for CSE 11
+
+<span style="color:blue">some **blue** text</span>
+<span style="color:green;font-weight:700;font-size:20px"> 
+markdown color font styles
+</span>

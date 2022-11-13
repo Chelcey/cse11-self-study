@@ -5,8 +5,8 @@
 > Due to my bad coding concepts skills, I made this page so I can learn Java from scratch, and this is where I will put all my programming notes for it. 
 
 <span style="color:violet">some **blue** text</span>
-
-<span style="color:green;font-weight:700;font-size:20px"> [Contents:](https://chelcey.github.io/cse11-self-study/)</span>
+<span style="color:green;font-weight:700;font-size:20px"> Chicken chicken little</span>
+### [Contents:](https://chelcey.github.io/cse11-self-study/)
 
 | Page | Title |
 | ----------- | ----------- |

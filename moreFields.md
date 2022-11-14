@@ -370,7 +370,9 @@ No test methods found.
 
 <mark >String</mark>
  : sequence of characters, that can represent a variety of info ranging from people names,addresses, passwords, usernames, web addresses, content of a paragraph like this one, etc.
- 
+
+---
+
  ## To Create a `String` in Java
  - <span style="color:blue"> Put a sequence of characters in between quotation marks</span>
  - <span style="color:blue"> Can be stored in fields, just as `int`s can</span>
@@ -386,6 +388,7 @@ No test methods found.
 ---
 ## Note
 - <span style="color:red"> `String` starts with **capital** `S`, but `int` starts with **lowercase** `i`</span>
+- <span style="color:red"> `+` *concatenates*, strings together </span>
 
 ---
 ## String Example Program
@@ -413,6 +416,34 @@ new StringExamples:1(
 No test methods found.
 ```
 ---
+## Conctenating Strings Program
+```
+class Name {
+  String firstName = "Ada";
+  String lastName = "Lovelace";
+  String fullName = this.firstName + this.lastName;
+}
+```
+---
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: Name:
+---------------------------
+Name:
+---------------
+new Name:1(
+ this.firstName = "Ada"
+ this.lastName = "Lovelace"
+ this.fullName = "AdaLovelace")
+---------------
+No test methods found.
+```
+---
+## ISSUE
+<span style="color:red"> **Which of the following options contain text that is part of the output?** </span>
+### I am unsure....
 
 ### <span style="color:violet"> Note: </span>
 - **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**

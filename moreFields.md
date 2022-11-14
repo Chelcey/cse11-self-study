@@ -307,9 +307,65 @@ No test methods found.
 
 ## Field Access Shown:
 - <span style="color:burgundy"> `this.gravity`, to look up the value in the `gravity` field.</span>
-
+- <span style="color:red"> Instead of writing the gravity [i.e. in this case, 4] over and over, the program creates a `int gravity = 4` so they save time not having to write 4 over and over again.</span>
 
 ---
+## Getting Paid Program
+```
+class Pay {
+  int hourlyRate = 20;
+  int numHours = 15;
+  int pay = this.hourlyRate * this.numHours;
+}
+```
+---
+
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: Pay:
+---------------------------
+Pay:
+---------------
+new Pay:1(
+ this.hourlyRate = 20
+ this.numHours = 15
+ this.pay = 300)
+---------------
+No test methods found.
+```
+---
+## Calculating Revenue Program
+```
+class Revenue {
+  int costPerItem = 5;
+  int numSoldPerWeek = 20;
+  int revenuePerWeek = this.costPerItem * this.numSoldPerWeek;
+  int weeks = 10;
+  int totalRevenue = this.revenuePerWeek * this.weeks;
+}
+```
+---
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: Revenue:
+---------------------------
+Revenue:
+---------------
+new Revenue:1(
+ this.costPerItem = 5
+ this.numSoldPerWeek = 20
+ this.revenuePerWeek = 100
+ this.weeks = 10
+ this.totalRevenue = 1000)
+---------------
+No test methods found.
+```
+---
+
 ### <span style="color:violet"> Note: </span>
 - **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**
 - **Order of words and symbols is important**

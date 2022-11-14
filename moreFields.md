@@ -303,7 +303,7 @@ No test methods found.
 ```
 ---
 ### Dissecting the program:
-- <span stye="color:red"> **USE field access**</span> <span style="color:green"> instead of repeating `10` over and over</span>
+- USE: <span stye="color:red"> **field access**</span> <span style="color:green"> instead of repeating `10` over and over</span>
 
 ## Field Access Shown:
 - <span style="color:burgundy"> `this.gravity` matches how the `tester` library prints out the values of fields, where each field is written as `this.fieldName`</span>

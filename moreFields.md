@@ -306,7 +306,7 @@ No test methods found.
 - USE: <span stye="color:red"> **field access**</span> <span style="color:green"> instead of repeating `10` over and over</span>
 
 ## Field Access Shown:
-- <span style="color:burgundy"> `this.gravity` matches how the `tester` library prints out the values of fields, where each field is written as `this.fieldName`</span>
+- <span style="color:burgundy"> `this.gravity`, to look up the value in the `gravity` field.</span>
 
 
 ---

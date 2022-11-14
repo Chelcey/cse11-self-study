@@ -302,6 +302,14 @@ new UsingFields:1(
 No test methods found.
 ```
 ---
+### Dissecting the program:
+- <span stye="color:red"> **USE field access**</span> <span style="color:green"> instead of repeating `10` over and over</span>
+
+## Field Access Shown:
+- <span style="color:burgundy"> `this.gravity` matches how the `tester` library prints out the values of fields, where each field is written as `this.fieldName`</span>
+
+
+---
 ### <span style="color:violet"> Note: </span>
 - **You must get used to reading and responding to error messages like the one from the previous step. It’s nearly impossible to write correct syntax on the first try all the time**
 - **Order of words and symbols is important**

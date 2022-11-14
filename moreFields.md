@@ -7,7 +7,7 @@
 - [x] 1.1 Programs, Fields
 - [x] 1.2 Java as a Calculator
 - [x] 1.3 Syntax
-- [ ] 2.1 Using Fields
+- [x] 2.1 Using Fields
 - [ ] 2.2 Beyond ints
 - [ ] 2.3 Java Checks Types
 
@@ -361,6 +361,54 @@ new Revenue:1(
  this.revenuePerWeek = 100
  this.weeks = 10
  this.totalRevenue = 1000)
+---------------
+No test methods found.
+```
+---
+
+# <span style="color:magenta"> 2.2 Beyond ints</span>
+
+<mark >String</mark>
+ : sequence of characters, that can represent a variety of info ranging from people names,addresses, passwords, usernames, web addresses, content of a paragraph like this one, etc.
+ 
+ ## To Create a `String` in Java
+ - <span style="color:blue"> Put a sequence of characters in between quotation marks</span>
+ - <span style="color:blue"> Can be stored in fields, just as `int`s can</span>
+  
+ ## Example String
+ ```
+ class StringExamples {
+  String name = "Dorothy Vaughan";
+  String password = "s00peR_C_kret";
+  String sentence = "But Java, and programming languages in general, support many other kinds of data.";
+}
+```
+---
+## Note
+- <span style="color:red"> `String` starts with **capital** `S`, but `int` starts with **lowercase** `i`</span>
+
+---
+## String Example Program
+```
+class StringExamples {
+  String name = "Dorothy Vaughan";
+  String password = "s00peR_C_kret";
+  String sentence = "But Java, and programming languages in general, support many other kinds of data.";
+}
+```
+---
+## Output
+```
+Tester Prima v.2.3
+-----------------------------------
+Tests defined in the class: StringExamples:
+---------------------------
+StringExamples:
+---------------
+new StringExamples:1(
+ this.name = "Dorothy Vaughan"
+ this.password = "s00peR_C_kret"
+ this.sentence = "But Java, and programming languages in general, support many other kinds of data.")
 ---------------
 No test methods found.
 ```

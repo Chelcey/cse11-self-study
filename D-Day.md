@@ -13,10 +13,13 @@
 ## <span style="color:purple"> Vocabulary:</span>
 <mark >Functions</mark>
  : A block of code that performs a task.
+ 
  <mark >Class</mark>
  : A container for related functions.
+ 
  <mark >Methods</mark>
  : A function that is part of a class. 
+ 
  <mark >Access Modifier</mark>
  : A special keyword that determines if other **classes and methods** in this program can access these **classes and methods**.
  

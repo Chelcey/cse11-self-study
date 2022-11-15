@@ -11,9 +11,13 @@
 ## Content:
 - [ ] <span style="color:magenta"> **Anatomy of a Java Program**</span>
 
+### <span style="color:purple"> Vocabulary:</span>
+<mark >Functions</mark>
+ :A block of code that performs a task.
+ 
 ### <span style="color:azure"> Notes:</span>
 - <span style="color:blue"> **Functions** are the smallest building blocks of the Java program.</span>
-
+- <span style="color:blue">
 - [ ] <span style="color:magenta"> **Your First Java Program**</span>
 
 - [ ] <span style="color:magenta"> **Cheat Sheet**</span>

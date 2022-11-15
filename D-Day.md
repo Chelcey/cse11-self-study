@@ -81,17 +81,17 @@ public class Main {
 - <span style="color:blue"> **Functions** are the smallest building blocks of the Java program.</span>
 - <span style="color:blue"> **Functions** don't belong on their own, they should always belong to a **Class**.</span>
 - <span style="color:blue"> **Classes** help organize our code, like how fruits, veggies, and sweets have their own designated areas in the Grocery stores. **Classes in Java, in the same way, contain related **functions**</span>
-- <span style"color:blue"> Every **java program** must contain **one class** that contains the **main function**. </span>
-- <span style"color:blue"> The more accurate term for **functions** is **method**.</span>
-- <span style"color:blue"> If a **function** is *outside a class* it is referred to as a **function**, but if the **function** is *inside a class* it is referred to as a **method of that class**.</span>
-- <span style"color:blue"> In **java** all those **classes and methods** should have an **access modifier**.</span>
-- <span style"color:blue"> We usually put the **access modifier** in front of our **class and method declarations**. The 4 **access modifiers** in **Java** are: </span>
+- <span style="color:blue"> Every **java program** must contain **one class** that contains the **main function**. </span>
+- <span style="color:blue"> The more accurate term for **functions** is **method**.</span>
+- <span style="color:blue"> If a **function** is *outside a class* it is referred to as a **function**, but if the **function** is *inside a class* it is referred to as a **method of that class**.</span>
+- <span style="color:blue"> In **java** all those **classes and methods** should have an **access modifier**.</span>
+- <span style="color:blue"> We usually put the **access modifier** in front of our **class and method declarations**. The 4 **access modifiers** in **Java** are: </span>
   1. public
   2. protected
   3. private
   4. default
-- <span style"color:blue"> Naming **Classes** in **java** follows the *Pascal Naming Convention*, which means **the first letter of every word should be uppercase**. </span>
-- <span style"color:blue"> Naming **Methods** in **java** follows the *camel Naming Convention*, which means **that the first letter of every word should be uppercase, *except* the first word**. </span>
+- <span style="color:blue"> Naming **Classes** in **java** follows the *Pascal Naming Convention*, which means **the first letter of every word should be uppercase**. </span>
+- <span style="color:blue"> Naming **Methods** in **java** follows the *camel Naming Convention*, which means **that the first letter of every word should be uppercase, *except* the first word**. </span>
 ---
 # <span style="color:magenta"> **Your First Java Program**</span>
 

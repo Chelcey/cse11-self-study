@@ -9,9 +9,8 @@
 # <span style="color:purple"> **Java for Beginners**</span>
 
 ## Content:
-# - [ ] <span style="color:magenta"> **Anatomy of a Java Program**</span>
+- [ ] <span style="color:magenta"> **Anatomy of a Java Program**</span>
 ---
-
 ## <span style="color:azure"> Notes:</span>
 - <span style="color:blue"> **Functions** are the smallest building blocks of the Java program.</span>
 

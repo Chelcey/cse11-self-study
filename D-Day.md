@@ -9,7 +9,7 @@
 ## <span style="color:purple"> **Java for Beginners**</span>
 
 ## Content:
- [x] Anatomy of a Java Program
+-[x] Anatomy of a Java Program
 
 - [] Your First Java Program
 - [] Cheat Sheet

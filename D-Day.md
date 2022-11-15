@@ -13,11 +13,48 @@
 
 ### <span style="color:purple"> Vocabulary:</span>
 <mark >Functions</mark>
- :A block of code that performs a task.
+ : A block of code that performs a task.
+ <mark >Class</mark>
+ : A container for related functions.
  
+### How to make a Function in Java
+1. Specify ReturnType of that function
+```
+ReturnType Name() {
+   ...
+ }
+```
+---
+
+### Sample Function
+- ReturnType of Sample Function is **void**
+- Name of Sample Function is **sendEmail()** which identifies purpose of the function
+- Inside the parentheses, you add the paremeters for this function, to pass values to the function
+- After the paremeter, you add a pair of curly braces
+- Inside the curly braces, you write the actual **java** code
+- **NOTE**: You **HAVE** to put the left curly brace on the same line you define your function. 
+```
+void sendEmail() {
+   ...
+ }
+```
+---
+
+### Every Java Program should have at least 1 Program
+### That is (MAIN)
+- Main is the entry point to our programs
+```
+void main() {
+   ...
+}
+```
+---
+
 ### <span style="color:azure"> Notes:</span>
 - <span style="color:blue"> **Functions** are the smallest building blocks of the Java program.</span>
-- <span style="color:blue">
+- <span style="color:blue"> **Functions** don't belong on their own, they should always belong to a **Class**.</span>
+- <span style="color:blue"> **Classes** help organize our code, like how fruits, veggies, and sweets have their own designated areas in the Grocery stores.</span>
+- 
 - [ ] <span style="color:magenta"> **Your First Java Program**</span>
 
 - [ ] <span style="color:magenta"> **Cheat Sheet**</span>

@@ -6,15 +6,24 @@
 - [ ] Go over the midterm
 - [ ] Film the Tiktok video
 
-## <span style="color:purple"> **Java for Beginners**</span>
+## <span style="color:purple"> #**Java for Beginners**</span>
 
 ## Content:
+- [ ] <span style="color:magenta"> **Anatomy of a Java Program**</span>
+
+- [ ] <span style="color:maroon"> **Your First Java Program**</span>
+
+- [ ] <span style="color:fuschia"> **Cheat Sheet**</span>
+
+- [ ] <span style="color:fuschia"> **How Java Code Gets Executed**</span>
+
+- [ ] <span style="color:fuschia"> **Course Structure**</span>
+
+- [ ] <span style="color:fuschia"> **Types**</span>
+
+- [ ] <span style="color:fuschia"> **Variables**</span>
+
 - [ ] <span style="color:fuschia"> **Anatomy of a Java Program**</span>
-
-- [] Your First Java Program
-- [] Cheat Sheet
-- [] How Java Code Gets Executed
-
 ## What is the main point of the Big O Notation?
 > <span style="color:blue"> Describe the asymptotic behavior of functions (which is how fast the f(x) grows/declines)</span>
 

@@ -6,6 +6,12 @@
 - [ ] Go over the midterm
 - [ ] Film the Tiktok video
 
+## New Goals
+- [ ] Lab 04 [Must Get Points!!](https://ucsd-cse15l-f22.github.io/week/week7/#week-7-lab-report)
+
+- [ ] Lab 05 [Must get Full Marks](pending)
+
+
 # <span style="color:purple"> **Java for Beginners**</span>
 -- 
 # <span style="color:magenta"> **Anatomy of a Java Program**</span>

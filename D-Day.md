@@ -93,7 +93,11 @@ public class Main {
 - <span style="color:blue"> Naming **Classes** in **java** follows the *Pascal Naming Convention*, which means **the first letter of every word should be uppercase**. </span>
 - <span style="color:blue"> Naming **Methods** in **java** follows the *camel Naming Convention*, which means **that the first letter of every word should be uppercase, *except* the first word**. </span>
 ---
+
 # <span style="color:magenta"> **Your First Java Program**</span>
+
+### How to Write & Execute first Java Program:
+![Hello World!](HelloWorld.jpg)
 
 - [ ] <span style="color:magenta"> **Cheat Sheet**</span>
 

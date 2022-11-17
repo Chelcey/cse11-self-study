@@ -7,9 +7,12 @@
 - [ ] Film the Tiktok video
 
 ## New Goals
-- [ ] Lab 04 [Must Get Points!!](https://ucsd-cse15l-f22.github.io/week/week7/#week-7-lab-report)
+- [ ]  Week 5 Quiz
+- [ ]  Lab 04 [Must Get Points!!](https://ucsd-cse15l-f22.github.io/week/week7/#week-7-lab-report)
 
 - [ ] Lab 05 [Must get Full Marks](pending)
+- [ ] Software Skills Test (until confidence)
+- [ ] Math 109 HW 8
 
 
 # <span style="color:purple"> **Java for Beginners**</span>

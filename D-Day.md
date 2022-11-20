@@ -2,11 +2,11 @@
 
 
 ## New Goals
-- [ ]  Week 5 Quiz
+- [x]  Week 5 Quiz
 - [x]  Lab 04 [Must Get Points!!](https://ucsd-cse15l-f22.github.io/week/week7/#week-7-lab-report)
 
 - [ ] Lab 05 [Must get Full Marks](pending)
-- [ ] Software Skills Test (until confidence)
+- [ ] Software Skills Test (until confidence) STUDY ON MONDAY
 - [ ] Math 109 HW 8
 
 

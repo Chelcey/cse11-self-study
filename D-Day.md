@@ -1,14 +1,9 @@
 ### <span style="color:maroon"> The day on which an important operation is to begin or a change to take effect. </span>
 
-## Goal
-- [ ] Go through the Java youtube tutorial in 1 go
-- [ ] Labs 4 - 8 
-- [ ] Go over the midterm
-- [ ] Film the Tiktok video
 
 ## New Goals
 - [ ]  Week 5 Quiz
-- [ ]  Lab 04 [Must Get Points!!](https://ucsd-cse15l-f22.github.io/week/week7/#week-7-lab-report)
+- [x]  Lab 04 [Must Get Points!!](https://ucsd-cse15l-f22.github.io/week/week7/#week-7-lab-report)
 
 - [ ] Lab 05 [Must get Full Marks](pending)
 - [ ] Software Skills Test (until confidence)
